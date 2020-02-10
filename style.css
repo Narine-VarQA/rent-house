@@ -1,0 +1,148 @@
+.head{
+	border: 1px solid none;
+	background: #2471A3;
+}
+.head_one{
+	border: 1px solid none;
+}
+.head_one_col_left{
+	border: 1px solid none;
+	height: 60px;
+}
+.head_one_col_left a{
+	color: white;
+}
+.head_one_col_right{
+	border: 1px solid none;
+	height: 50px;
+	color: white;
+}
+.head_one_col_right a{
+	color: white;
+}
+.login{
+	border: 1px solid;
+	padding-left: 20px;
+	padding-right: 25px;
+	color: white;
+}
+.header{
+	position: relative;
+	border: 1px solid none;
+	padding:150px;
+	background-image: url(berlin.jpeg);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.text_img{
+	position: absolute;
+	border: 1px solid none;
+	height: 100px;
+}
+.text_one{
+	font-family:'Pacifico', cursive;
+	font-size: 45px;
+	color: white;
+}
+.text_two{
+	color: white;
+	font-size: 15px;
+}	
+.header_down{
+	border: 1px solid none;
+	padding: 10px;
+	background:#85C1E9;
+}
+.header_down_left{
+	border: 1px solid none;
+	height: 30px;
+}
+.header_down_right{
+	border: 1px solid none;
+	height: 30px;
+}
+.header_down_t_one{
+	color: blue;
+}
+.header_down_t_two{
+	font-size: 20px;
+	color:red;
+}
+.middle{
+	border: 1px solid none;
+	padding: 30px;
+}
+.middle_one{
+	border: 1px solid none;
+	padding: 30px;
+}
+.middle_col{
+	position: relative;
+	border: 1px solid none;
+	height: 150px;
+}
+.middle img{
+	position: absolute;
+	width:250px;
+	height:100%; 
+}
+.price{
+	position: absolute;
+	border: 1px solid none;
+	height: 30px;
+	background: white;
+}
+.price span{
+	color: black;
+	
+}
+.middle_col_title{
+	border: 1px solid none;
+	height: 40px;
+}
+.title_text{
+	font-size: 13px;
+	color: black;
+}
+.middle_down{
+	border: 1px solid none;
+	height: 50px;
+	text-align: center;
+	margin-top: 70px;
+}
+.middle_down a{
+	border: 1px solid;
+	padding: 15px 30px;
+	border-radius: 15px;
+}
+.footer{
+	border: 1px solid none;
+	padding: 20px;
+	background:#85C1E9;
+}
+.footer_one{
+	border: 1px solid none;
+	padding: 10px;
+
+}
+.footer_col{
+	border: 1px solid none;
+	height: 100px;
+}
+.footer_col ul li{
+	list-style: none;
+}
+.footer_col a{
+	color: white;
+}
+.footer_col_one{
+	border: 1px solid none;
+	height: 150px;
+}
+.text_symbol img{
+	width: 20px;
+	height: 20px;
+}
+.footer_col_one_text{
+color: white;
+}
